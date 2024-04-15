@@ -1,0 +1,1 @@
+Each CSV file has the name of the site it belongs to and has two columns, timestamp (in seconds) and measured power in kilowatts.
