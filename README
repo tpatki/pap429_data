@@ -1,1 +1,9 @@
-Each CSV file has the name of the site it belongs to and has two columns, timestamp (in seconds) and measured power in kilowatts.
+Each CSV file has the name of the site it belongs to and has two columns,
+timestamp (in seconds) and measured power in kilowatts.
+
+Cori, Perlmutter, Cineca and HLRS are full datasets.
+
+Summit dataset is a summary providing quartile information only.
+
+
+
