@@ -1,9 +1,13 @@
 Each CSV file has the name of the site it belongs to and has two columns,
 timestamp (in seconds) and measured power in kilowatts.
 
-Cori, Perlmutter, Cineca and HLRS are full datasets.
+Cori (LBL), Perlmutter (LBL), Marconi-100 (Cineca), Lumi (CSC) and Hawk (HLRS) are full datasets.
 
-Summit dataset is a summary providing quartile information only.
+Summit (ORNL) and Sierra (LLNL) datasets are a summary providing quartile information only.
+
+Note: The Hawk dataset has ~1500 rows with leading zeros in the beginning, we did not modify the original dataset.
+
+Sierra data release number: LLNL-MI-862385 
 
 
 
