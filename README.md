@@ -12,22 +12,22 @@ The supercomputers considered at each site, identified by their name and associa
 6. Hawk (\#42), High-Performance Computing Center Stuttgart (HLRS), Germany
 
 ### Authors:
-Tapasya Patki, LLNL, patki1@llnl.gov
-Barry Rountree, LLNL, rountree4@llnl.gov
-Torsten Wilde, HPE, wilde@hpe.com
-Christian Simmendinger, HPE, christian.simmendinger@hpe.com
-Ralf Schneider, HLRS,ralf.schneider@hlrs.de
-Stephanie Brink, LLNL, brink2@llnl.gov
-Kathleen Shoga, LLNL, shoga1@llnl.gov
-Zhengji Zhao, LBL, zzhao@lbl.gov
-Ermal Rrapaj, LBL, ermalrrapaj@lbl.gov
-Nicholas Wright, LBL, njwright@lbl.gov
-Woong Shin, ORNL, shinw@ornl.gov
-Matthias Maiterth, ORNL, maiterthm@ornl.gov
-Jim Rogers, ORNL, jrogers@ornl.gov
-Esa Heiskanen, CSC, esa.heiskanen@csc.fi
-Andrea Bartolini, Cineca, a.bartolini@unibo.it
-Sachin Satish Idgunji, Nvidia, sidgunji@nvidia.com
+- Tapasya Patki, LLNL, patki1@llnl.gov
+- Barry Rountree, LLNL, rountree4@llnl.gov
+- Torsten Wilde, HPE, wilde@hpe.com
+- Christian Simmendinger, HPE, christian.simmendinger@hpe.com
+- Ralf Schneider, HLRS,ralf.schneider@hlrs.de
+- Stephanie Brink, LLNL, brink2@llnl.gov
+- Kathleen Shoga, LLNL, shoga1@llnl.gov
+- Zhengji Zhao, LBL, zzhao@lbl.gov
+- Ermal Rrapaj, LBL, ermalrrapaj@lbl.gov
+- Nicholas Wright, LBL, njwright@lbl.gov
+- Woong Shin, ORNL, shinw@ornl.gov
+- Matthias Maiterth, ORNL, maiterthm@ornl.gov
+- Jim Rogers, ORNL, jrogers@ornl.gov
+- Esa Heiskanen, CSC, esa.heiskanen@csc.fi
+- Andrea Bartolini, Cineca, a.bartolini@unibo.it
+- Sachin Satish Idgunji, Nvidia, sidgunji@nvidia.com
 
 ### CSV Descriptions:
 
