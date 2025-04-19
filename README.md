@@ -34,13 +34,16 @@ The supercomputers considered at each site, identified by their name and associa
 Each CSV file is identified by the system it belongs to along with the sampling rate of power measurements (frequency of data collection).  
 It has two columns, timestamp (in seconds) and measured power in kilowatts.
 
-Cori (LBL), Perlmutter (LBL), Marconi-100 (Cineca), Lumi (CSC) and Hawk (HLRS) are full datasets.
-
-Summit (ORNL) and Sierra (LLNL) datasets are a summary providing quartile information only.
+- Cori (LBL), Perlmutter (LBL), Marconi-100 (Cineca), Lumi (CSC) and Hawk (HLRS) are full datasets.
+- Summit (ORNL) and Sierra (LLNL) datasets are a summary providing quartile information only.
 
 Note: The Hawk dataset has ~1500 rows with leading zeros in the beginning, we did not modify the original dataset.
 
-LLNL Sierra summary data release number: LLNL-MI-862385.
+In addition to system-level telemetry, two additional application-level power measurement datasets (`lumi_hpcg_data` and `hlrs_hpl_hpcg_data` folders) have been included. These are:
+- High Performance Conjugate Gradients (HPCG) Benchmark power data from Lumi supercomputer.
+- High-Performance Linpack (HPL) Benchmark and HPCG power data, along with the different power capping algorithms (Figure 5 in the paper), from the Hawk supercomputer.
 
 ### License
 Creative Commons Attribution 4.0 International Public License
+
+LLNL Sierra summary data release number: LLNL-MI-862385.
