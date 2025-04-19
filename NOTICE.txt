@@ -1,3 +1,28 @@
+Copyright (c) 2025, Lawrence Livermore National Security, LLC. 
+Produced at the Lawrence Livermore National Laboratory 
+
+Written by: 
+Tapasya Patki, LLNL, patki1@llnl.gov
+Barry Rountree, LLNL, rountree4@llnl.gov
+Torsten Wilde, HPE, wilde@hpe.com
+Christian Simmendinger, HPE, christian.simmendinger@hpe.com
+Ralf Schneider, HLRS,ralf.schneider@hlrs.de
+Stephanie Brink, LLNL, brink2@llnl.gov
+Kathleen Shoga, LLNL, shoga1@llnl.gov
+Zhengji Zhao, LBL, zzhao@lbl.gov
+Ermal Rrapaj, LBL, ermalrrapaj@lbl.gov
+Nicholas Wright, LBL, njwright@lbl.gov
+Woong Shin, ORNL, shinw@ornl.gov
+Matthias Maiterth, ORNL, maiterthm@ornl.gov
+Jim Rogers, ORNL, jrogers@ornl.gov
+Esa Heiskanen, CSC, esa.heiskanen@csc.fi
+Andrea Bartolini, Cineca, a.bartolini@unibo.it
+Sachin Satish Idgunji, Nvidia, sidgunji@nvidia.com
+
+Release number - LLNL-MI-862385.
+
+All rights reserved.
+
 This work was produced under the auspices of the U.S. Department of
 Energy by Lawrence Livermore National Laboratory under Contract
 DE-AC52-07NA27344.
